@@ -272,7 +272,22 @@ We have used the Following parameters values for the simulations:
     - Python
     - Matplotlib
     - Numpy
-- Comparison of reproduced results and results from the paper along with slight explaination
+#### Comparison of results:
+
+##### Probabilistic Strain Life Field
+
+![penpaper](images/p_e_n_paper.png) <br>
+![penmodel](images/p_e_n_model.png)<br>
+
+__The Above plots are for Strain vs Number of Cycles to Failure for percent of probability along with postulated data (Experimental for 0.5 Percent).__
+
+![psnpaper](images/p_s_n_paper.png) <br>
+![psnmodel](images/p_s_n_moedel.png)<br>
+
+__The Above plots are for SWT Damage Parameter vs Number of Cycles to Failure for percent of probability along with postulated data (Experimental for 0.5 Percent).__
+
+
+
 
 ### 5.3 New Work Done
 

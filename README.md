@@ -25,10 +25,12 @@ reference and please remove this while writing your report).
 - Soft copy of analysis (hand written)(jupyter notebooks)
     - We have used jupyter notebooks and therefore we have done analysis(in latex + markdown) and coding (Python Cells) in the same digital jupyter notebook.
     - SoftCopy uploaded as [analysis_n_code.pdf](analysis_n_code.pdf)
+      - Better Preview in Browser [analysis_n_code.html](analysis_n_code.html)
     - Runable Jupyter Notebook uploaded as [analysis_n_code.ipynb](analysis_n_code.ipynb)
 - Folder of matlab(python) codes (with proper naming)
     - Code present in jupyter notebook as [analysis_n_code.ipynb](analysis_n_code.ipynb)
     - SoftCopy uploaded as [analysis_n_code.pdf](analysis_n_code.pdf) for quick preview
+      - Better Preview in Browser [analysis_n_code.html](analysis_n_code.html)
     - Extra Notebooks in folder Extra ipynb
         - [Extra ipynb/PWM.ipynb](Extra ipynb/PWM.ipynb)
         - [Extra ipynb/weibull_dis.ipynb](Extra ipynb/weibull_dis.ipynb)
